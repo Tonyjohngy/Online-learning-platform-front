@@ -1,0 +1,12 @@
+/* index的课程图片 */
+.picture
+{
+    width: 275px;
+    height: 300px;
+}
+/*  详情头像设置 */
+.cover
+{
+    width: 400px;
+    height: 400px;
+}
